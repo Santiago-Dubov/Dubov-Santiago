@@ -29,16 +29,16 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: How to Win a Data Science Competition. Learn from Top Kagglers.
+  title: How to Win a Data Science Competition - Learn from Top Kagglers.
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date_start: "2020-08-01"
+  description: 
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Natural Language Processing with Classification and Vector Spaces
+  url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
