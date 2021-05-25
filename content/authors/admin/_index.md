@@ -10,7 +10,7 @@ role: Recent MEng graduate specialising in Machine Learning and NLP
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Cambridge
+- name: The University of Cambridge
   url: https://www.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ education:
     institution: Paris Saclay University: Centrale Supélec
     year: 2020
   - course: MEng in Computer and Information Engineering
-    institution: Massachusetts Institute of Technology
+    institution: The University of Cambridge
     year: 2021
 
 # Social/Academic Networking
