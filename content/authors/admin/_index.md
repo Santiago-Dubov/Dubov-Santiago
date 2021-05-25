@@ -48,7 +48,7 @@ social:
   link: https://github.com/Santiago-Dubov
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/santiago-dubov-9b7052163
+  link: https://www.linkedin.com/in/santiago-dubov-9b7052163
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -63,9 +63,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Santiago Dubov is a recent graduate in Computer and Information Engineering from the University of Cambridge. He is currently completing a 3 month internship as a Machine Learning Engineer in the search team at spotify. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+For his masters thesis he focused on using data augmentation to improve the current systems used for automatic grammar error of speech. This involved a lot of work with transformers and large pre-trained models such as BERT. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
