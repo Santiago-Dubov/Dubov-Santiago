@@ -45,10 +45,10 @@ social:
   link: '/#contact'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Santiago-Dubov
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/santiago-dubov-9b7052163
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
