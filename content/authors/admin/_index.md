@@ -18,14 +18,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neural Machine Translation
+- Summarization
+- Search
 
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Computer and Information Engineering
+  - course: MEng: Computer Engineering
     institution: The University of Cambridge
     year: 2021
   - course: Exchange Year
@@ -62,7 +62,7 @@ highlight_name: false
 ---
 Santiago Dubov is a recent graduate in Computer and Information Engineering from the University of Cambridge. He is currently completing a 3 month internship as a Machine Learning Engineer in the search team at spotify. 
 
-For his masters thesis he focused on using data augmentation to improve the current systems used for automatic grammar error of speech. This involved a lot of work with transformers and large pre-trained models such as BERT. 
+For his masters thesis he focused on using data augmentation to improve the current systems used for automatic grammar error of speech. This involved significant work with transformer models and NMT. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
