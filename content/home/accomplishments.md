@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/MCV8PEGFPFX2
   date_end: ""
   date_start: "2021-01-25"
   description: ""
@@ -31,21 +31,21 @@ item:
   organization_url: https://www.coursera.org
   title: How to Win a Data Science Competition - Learn from Top Kagglers.
   url: ""
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/9SGE7PJ78GJB
   date_end: ""
   date_start: "2020-08-01"
-  description: 
+  description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Natural Language Processing with Classification and Vector Spaces
   url: ""
-- certificate_url: https://www.datacamp.com
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/GEKUKA865WQN
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Algorithmic Toolbox'
   url: ""
 
 design:
