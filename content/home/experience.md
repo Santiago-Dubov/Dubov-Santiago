@@ -34,7 +34,7 @@ experience:
   - title: Data Scientist/Software Engineer Intern
     company: Faraday Predictive
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Cambridge
     date_start: '2018-06-15'
     date_end: '2018-08-31'
