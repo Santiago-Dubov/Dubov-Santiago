@@ -31,14 +31,14 @@ experience:
     date_end: ''
     description: Working with the search team to reduce bias and improve performance across users and markets.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data Scientist/Software Engineer Intern
+    company: Faraday Predictive
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-gc
+    location: Cambridge
+    date_start: '2018-06-15'
+    date_end: '2018-08-31'
+    description: Analysis and advance prediction of faults in induction motors.
 
 design:
   columns: '2'
