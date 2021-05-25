@@ -65,4 +65,3 @@ Santiago Dubov is a recent graduate in Computer and Information Engineering from
 For his masters thesis he focused on using data augmentation to improve the current systems used for automatic grammar error of speech. This involved significant work with transformer models and NMT. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
