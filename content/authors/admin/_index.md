@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MEng: Computer Engineering
+  - course: MEng Computer Engineering
     institution: The University of Cambridge
     year: 2021
   - course: Exchange Year
