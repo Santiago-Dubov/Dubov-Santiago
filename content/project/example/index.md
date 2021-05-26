@@ -20,7 +20,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/YPRdAHi6WJ0"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -29,7 +29,6 @@ url_video: "https://youtu.be/YPRdAHi6WJ0"
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-[![youtube](youtube.PNG)](https://youtu.be/YPRdAHi6WJ0)
 
 {{< youtube YPRdAHi6WJ0 >}}
 
