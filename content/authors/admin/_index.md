@@ -14,7 +14,7 @@ organizations:
   url: https://www.cam.ac.uk/
   
 # Short bio (displayed in user profile at end of posts)
-bio: I am motivated by developing and delivering smart machine learning solutions. 
+bio: I am motivated by developing and delivering smart machine learning solutions in the field of NLP. 
 
 # Interests to show in About widget
 interests:
@@ -62,6 +62,6 @@ highlight_name: false
 ---
 Santiago Dubov is a recent graduate in Computer and Information Engineering from the University of Cambridge. He is currently completing a 3 month internship as a Machine Learning Engineer in the search team at spotify. 
 
-For his masters thesis he focused on using data augmentation to improve the current systems used for automatic grammar error of speech. This involved significant work with transformer models and NMT. 
+For his masters thesis he focused on using data augmentation to improve the current systems used for automatic grammar error of speech. This involved significant work with training and evaluating transformer models on large quantities of text data. 
 
 
