@@ -28,7 +28,7 @@ education:
   - course: MEng Computer Engineering
     institution: The University of Cambridge
     year: 2021
-  - course: Exchange Year
+  - course: Exchange Year Computer Engineering
     institution: Paris Saclay University
     year: 2020
 

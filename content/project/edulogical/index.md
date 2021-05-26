@@ -17,7 +17,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://devpost.com/software/quizme-e9gnh7?ref_content=my-projects-tab&ref_feature=my_projects"
+url_Devpost: "https://devpost.com/software/quizme-e9gnh7?ref_content=my-projects-tab&ref_feature=my_projects"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -70,6 +70,6 @@ EduLogical is a web app that allows students to improve their retention of key i
 * Only 20 % of the work goes into actually coding machine learning 
 * Making things connect in the back is hard!
 
-## 🛫 What's next for QuizMe
+## 🛫 What's next for EduLogical
 * Probably build a super AI and take over the world 
 * Look into some business case analysis and potentially fine tuning and hosting for real use.
