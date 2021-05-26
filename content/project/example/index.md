@@ -1,6 +1,6 @@
 ---
 title: Alexa App for English Learners
-summary: An example of using the in-built project page.
+summary: Helping learners to gain confidence and improve their grammar with Alexa.
 tags:
 - Deep Learning
 date: "2020-12-18T17:15:00Z"

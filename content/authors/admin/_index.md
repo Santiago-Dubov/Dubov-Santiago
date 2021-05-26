@@ -14,7 +14,7 @@ organizations:
   url: https://www.cam.ac.uk/
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neural machine translation, summarization and search. 
+bio: I am motivated by developing and delivering smart machine learning solutions. 
 
 # Interests to show in About widget
 interests:
@@ -28,8 +28,8 @@ education:
   - course: MEng Computer Engineering
     institution: The University of Cambridge
     year: 2021
-  - course: Exchange Year Computer Engineering
-    institution: Paris Saclay University
+  - course: Exchange Year, Computer Engineering
+    institution: Paris Saclay University, Centrale Supélec
     year: 2020
 
 # Social/Academic Networking

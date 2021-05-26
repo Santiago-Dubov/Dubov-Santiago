@@ -17,10 +17,9 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_Devpost: "https://devpost.com/software/quizme-e9gnh7?ref_content=my-projects-tab&ref_feature=my_projects"
-url_pdf: ""
+url_video: "https://devpost.com/software/quizme-e9gnh7?ref_content=my-projects-tab&ref_feature=my_projects"
+url_code: "https://github.com/Santiago-Dubov/TO2021"
 url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -29,7 +28,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-An app built by students for students. 
+
 ## 💡 Inspiration
 If the pandemic has shown us anything, it's that technology can have an incredibly positive impact on our lives and we haven't even begun to scratch the surface on the possibilities out there. NLP has advanced at breakneck pace recently with the invention of transformers and we now have the possibility to use machine learning very effectively to aid students in their learning. With students under increased pressure to not only achieve good grades but also take part in personal projects and apply to internships, any tools that can help us be better learners are most welcome. 
 
