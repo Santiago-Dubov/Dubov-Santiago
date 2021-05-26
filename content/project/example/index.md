@@ -29,6 +29,7 @@ url_video: "https://youtu.be/YPRdAHi6WJ0"
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+[![youtube](youtube.PNG)](https://youtu.be/YPRdAHi6WJ0)
 
 As part of the 2020 Cambridge ALTA hackathon, I worked in a team of 2 to develop an Alexa Skill target at beginner English language learners to help them improve their grammar in their english. All code was written by me and can be found [here][github-link].
 
