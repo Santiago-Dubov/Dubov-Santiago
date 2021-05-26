@@ -1,6 +1,6 @@
 ---
-title: Alexa App for English Learners
-summary: An example of using the in-built project page.
+title: Edulogical 
+summary: Machine learning web app built for TO hacks 2021 with the University of Toronto
 tags:
 - Deep Learning
 date: "2020-12-18T17:15:00Z"
@@ -8,7 +8,7 @@ date: "2020-12-18T17:15:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
+image: featured.png
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
@@ -30,8 +30,6 @@ url_video: "https://youtu.be/YPRdAHi6WJ0"
 #slides: example
 ---
 [![youtube](youtube.PNG)](https://youtu.be/YPRdAHi6WJ0)
-
-{{< youtube YPRdAHi6WJ0 >}}
 
 As part of the 2020 Cambridge ALTA hackathon, I worked in a team of 2 to develop an Alexa Skill target at beginner English language learners to help them improve their grammar in their english. All code was written by me and can be found [here][github-link].
 

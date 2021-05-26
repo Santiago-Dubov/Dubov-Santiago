@@ -14,7 +14,7 @@ organizations:
   url: https://www.cam.ac.uk/
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include neural machine translation, summarization and search. 
 
 # Interests to show in About widget
 interests:
